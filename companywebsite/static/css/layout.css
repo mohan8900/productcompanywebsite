@@ -21,11 +21,11 @@ body {
   height: 250px;
   text-align: center;
   font-size: 60px;
-  background-image: url("/static/img/banner1.jpg");
+  background-image:url("img/c1.jpg");
   background-size: 100% 100%;
   margin: 0px 0px 0px 0px;
   padding-top: 150px;
-  color: #16d1ae;
+  color: #36534e;
 }
 
 .menu {
@@ -33,7 +33,7 @@ body {
   width: 100%;
   height: 50px;
   font-size: larger;
-  background-color: #5bb045;
+  background-color: #8399b6;
   text-align: center;
   padding-top: 15px;
   margin: 0px 0px 0px 0px;
@@ -54,7 +54,7 @@ body {
 
 .menuitem a {
   text-decoration: none;
-  color: #9c1018;
+  color: #553f15;
 }
 
 .content {
@@ -129,9 +129,9 @@ body {
   display: block;
   width: 100%;
   height: 40px;
-  background-color: #5bb045;
+  background-color: #a4b0c0;
   text-align: center;
   padding-top: 10px;
   margin: 0px 0px 0px 0px;
-  color: #9c1018;
+  color: #0e0d0d;
 }
